@@ -1,7 +1,7 @@
-## Zawadiana
+## Projects App
 
 ### Developed By
-### [Gesare](https://github.com/Gesare)
+### [Darolle](https://github.com/shizukane/projectsapp)
 
 
 ## Description
@@ -37,8 +37,7 @@ Users would like to:
 ## Getting Started
 ### Clone the Repo
 Run the following command on the terminal:
-`git clone https://github.com/Ge
-
+`git clone https://github.com/shizukane/projectsapp.git
 
 ### Activate virtual environment
 Activate virtual environment using python3.6 as default handler
@@ -87,10 +86,11 @@ Open terminal on `localhost:8000`
 ## Running the tests
 
 ```bash
-python3.8 manage.py test awwardapp
+python3.8 manage.py test awardapp
 
 ```
-
+## Code Beat
+[![codebeat badge](https://codebeat.co/badges/ae83f2be-c6df-481d-8fa4-e84e3c790cbf)](https://codebeat.co/projects/github-com-shizukane-projectsapp-master)
 
 ## Deploying to heroku
 Refer to this guide: [deploying to heroku](https://simpleisbetterthancomplex.com/tutorial/2016/08/09/how-to-deploy-django-applications-on-heroku.html)
