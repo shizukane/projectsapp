@@ -37,7 +37,7 @@ Users would like to:
 ## Getting Started
 ### Clone the Repo
 Run the following command on the terminal:
-`git clone https://github.com/Gesare/Zawadiana.git && c
+`git clone https://github.com/Gesare/Zawadiana.git && 
 
 ### Activate virtual environment
 Activate virtual environment using python3.6 as default handler
