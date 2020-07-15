@@ -37,7 +37,7 @@ Users would like to:
 ## Getting Started
 ### Clone the Repo
 Run the following command on the terminal:
-`git clone https://github.com/Ges
+`git clone https://github.com/Ge
 
 
 ### Activate virtual environment
