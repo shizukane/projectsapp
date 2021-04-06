@@ -11,7 +11,7 @@ django-countries==6.1.2
 django-crispy-forms==1.9.1
 django-heroku==0.3.1
 django-model-utils==4.0.0
-django-registration==2.4.1
+django-registration==3.1.2
 django-six==1.0.4
 django-star-ratings==0.9.1
 django-tinymce==3.0.2
